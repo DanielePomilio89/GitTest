@@ -22,3 +22,4 @@ public class BakeMesh : MonoBehaviour {
         SkinnedMR.BakeMesh(staticMesh);
     }
 }
+aaaa
